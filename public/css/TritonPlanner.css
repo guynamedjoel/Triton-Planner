@@ -1,0 +1,58 @@
+.navbar ul {
+     list-style-type: none;
+     margin: 0;
+     padding: 0;
+}
+
+.navbar .left-nav-button {
+     float: left;
+}
+
+.navbar .nav-title {
+     display: inline;
+}
+
+.navbar .right-nav-button {
+     float: right;
+}
+
+.navbar a {
+     display: block;
+     padding: 8px;
+     background-color: #dddddd;
+}
+
+.jumbotron {
+	position: relative;
+	background: none;
+}
+
+.jumbotron:after {
+     content:"";
+     background: url("../images/lorempixel.jumbotron.jpeg");
+     opacity: 0.2;
+     top: 0;
+     left: 0;
+     bottom: 0;
+     right: 0;
+     position: absolute;
+     z-index: -1;	
+}
+
+.jumbotron p {
+     color: #6e6e6e;
+}
+
+.project a {
+     text-align: center;
+}
+
+.project .details {
+     overflow: hidden;
+}
+
+.project .details .detailsImage {
+     width: 200px;
+     margin: 10px 10px 10px 0px;
+     float: left;
+}
