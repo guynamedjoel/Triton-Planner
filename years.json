@@ -1,0 +1,127 @@
+[
+	{
+		"id": "15-16",
+		"quarters": [
+			{
+				"id": "FA15",
+				"quarter": "Fall 2015",
+				"classes": ["DSGN1", "COGS102A", "COGS120", "COGS101A"],
+			},
+			{
+				"id": "WI16",
+				"quarter": "Winter 2016",
+				"classes": ["DSGN1", "COGS102A", "COGS120", "COGS101A"],
+			},
+			{
+				"id": "SP16",
+				"quarter": "Spring 2016",
+				"classes": ["DSGN1", "COGS102A", "COGS120", "COGS101A"],
+			}
+		]
+	},
+	{
+		"id": "Su16",
+		"quarters": [
+			{
+				"id": "S116",
+				"quarter": "Summer I 2016",
+				"classes": ["DSGN1", "COGS102A"],
+			},
+			{
+				"id": "S216",
+				"quarter": "Summer II 2016",
+				"classes": ["DSGN1", "COGS102A"],
+			}
+		]
+	},
+	{
+		"id": "16-17",
+		"quarters": [
+			{
+				"id": "FA16",
+				"quarter": "Fall 2016",
+				"classes": ["DSGN1", "COGS102A", "COGS120", "COGS101A"],
+			},
+			{
+				"id": "WI17",
+				"quarter": "Winter 2017",
+				"classes": ["DSGN1", "COGS102A", "COGS120", "COGS101A"],
+			},
+			{
+				"id": "SP17",
+				"quarter": "Spring 2017",
+				"classes": ["DSGN1", "COGS102A", "COGS120", "COGS101A"],
+			}
+		]
+	},
+	{
+		"id": "Su17",
+		"quarters": [
+			{
+				"id": "S117",
+				"quarter": "Summer I 2017",
+				"classes": ["DSGN1", "COGS102A"],
+			},
+			{
+				"id": "S217",
+				"quarter": "Summer II 2017",
+				"classes": ["DSGN1", "COGS102A"],
+			}
+		]
+	},
+	{
+		"id": "17-18",
+		"quarters": [
+			{
+				"id": "FA17",
+				"quarter": "Fall 2017",
+				"classes": ["DSGN1", "COGS102A", "COGS120", "COGS101A"],
+			},
+			{
+				"id": "WI18",
+				"quarter": "Winter 2018",
+				"classes": ["DSGN1", "COGS102A", "COGS120", "COGS101A"],
+			},
+			{
+				"id": "SP18",
+				"quarter": "Spring 2018",
+				"classes": ["DSGN1", "COGS102A", "COGS120", "COGS101A"],
+			}
+		]
+	},
+	{
+		 "id": "Su18",
+		"quarters": [
+			{
+				"id": "S118",
+				"quarter": "Summer I 2018",
+				"classes": ["DSGN1", "COGS102A"],
+			},
+			{
+				"id": "S218",
+				"quarter": "Summer II 2018",
+				"classes": ["DSGN1", "COGS102A"],
+			}
+		]
+	},
+	{
+		"id": "18-19",
+		"quarters": [
+			{
+				"id": "FA18",
+				"quarter": "Fall 2018",
+				"classes": ["DSGN1", "COGS102A", "COGS120", "COGS101A"],
+			},
+			{
+				"id": "WI19",
+				"quarter": "Winter 2019",
+				"classes": ["DSGN1", "COGS102A", "COGS120", "COGS101A"],
+			},
+			{
+				"id": "SP19",
+				"quarter": "Spring 2019",
+				"classes": ["DSGN1", "COGS102A", "COGS120", "COGS101A"],
+			}
+		]
+	}
+]
