@@ -57,3 +57,12 @@ function styleCSS(result) {
 	$('p').css('color', colors[3]);
 	$('.project img').css('opacity', .75);
 }
+
+function yearCSS(quarters) {
+	if (quarters.length == 3) {
+		$('#planner .row > div').css('class', 'col-xs-4');
+	}
+	else if (quarters.length == 2) {
+		$('#planner .row > div').css('class', 'col-xs-6');
+	}
+}
